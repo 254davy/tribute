@@ -1,0 +1,44 @@
+#main{
+    background-color:lightskyblue;
+}
+#title{
+ background-color:lightgoldenrodyellow;
+ color:red;
+ text-align:centre;
+ font-size:32px;
+ font-style:oblique;
+ font-family:"Franklin Gothic"
+}
+#img-div{
+    width:540px;
+    height:540px;
+    margin:0 auto;
+}
+#image{
+    max-width:100%;
+    height:auto;
+}
+#img-caption{
+ font-weight:normal;
+ text-align:centre;
+}
+#caption{
+    text-align:centre;
+    font-size:32px;
+    font-family:"courier new"
+}
+li{
+    font-weight:bold;
+    color:red;
+}
+p{
+    background-color:lightgreen;
+}
+#quote{
+    font-weight:bold;
+    font-size:large;
+    font-style:oblique;
+}
+span{
+    font-size:large;
+}
